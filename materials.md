@@ -4,17 +4,14 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html href="https://mitpress.mit.edu/books/deep-learning" url="/_images/books/deep_learning.jpg" width=150 align="right" %}
+{% include image.html href="https://www.springer.com/gp/book/9783319944623" url="/_images/books/neural_networks.jpg" width=150 align="right" %}
+{% include image.html href="https://www.manning.com/books/deep-learning-with-pytorch" url="/_images/books/pytorch.jpg" width=150 align="right" %}
+
 
 ## Book
-
-Alan Turing and Noam Chomsky: Very Famous Book
+* "**Deep Learning**" *by Ian Goodfellow, Yoshua Bengio and Aaron Courville*
+* "**Neural Networks and Deep Learning**" *by Charu C. Aggarwal*
+* "**Deep Learning with PyTorch**" *by Eli Stevens, Luca Antiga, and Thomas Viehmann*
 
 ## Additional Course Materials
-
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
