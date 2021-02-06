@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 <h2> Topics </h2>
 * Basic neuron models including McCulloch-Pitts neuron and Perceptron.
 * Multi-layer Perceptrons (MLP)
@@ -15,3 +16,4 @@ layout: home
 * Recurrent Neural Networks, Long Short-term Memory, Gated Recurrent Unit, …
 * Autoencoders, Variational Autoencoders
 * Generative Adversarial Networks
+
