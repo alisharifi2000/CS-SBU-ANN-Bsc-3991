@@ -17,3 +17,4 @@ permalink: /materials/
 * "**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**" *by Aurélien Géron*
 
 ## Additional Course Materials
+[2021 Version of Applications of Deep Neural Networks for TensorFlow and Keras (Washington University in St. Louis)](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
