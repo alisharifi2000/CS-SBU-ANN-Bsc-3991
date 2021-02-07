@@ -13,3 +13,5 @@ due_event:
 you can download Dataset assignment 1 from [github](https://github.com/alisharifi2000/CS-SBU-ANN-Bsc-3991/blob/main/static_files/assignments/Proj1_Data.csv)
 
 code of TA session for assignment1 [colab](https://colab.research.google.com/drive/1LP52pQ17rX3AALm9ShaapfmNYZ4ULU29?usp=sharing)
+
+recorded TA session for assignment1 [google Drive](https://drive.google.com/file/d/13kHMz285g8IhGfxUlx7zA1ze4rs4lRxb/view?usp=sharing)
