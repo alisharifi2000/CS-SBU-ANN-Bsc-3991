@@ -13,3 +13,6 @@ due_event:
 you can download Dataset assignment 3 from [google Drive](https://drive.google.com/drive/folders/18wvOUftwlb269MfWoybZA6MWm5VNR02X)
 
 code of TA session for assignment3 [kaggle](https://www.kaggle.com/alisharifi2000/ann-ta3)
+
+
+recorded TA session for assignment3 [google Drive](https://drive.google.com/file/d/1-n5P_kplhxrt-fGgjliBfsYaCwvoTca-/view?usp=sharing)
