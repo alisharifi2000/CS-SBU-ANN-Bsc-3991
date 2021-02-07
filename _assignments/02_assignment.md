@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2019-11-16T12:00:00+4:30
-title: 'Assignment #2 - CNN'
+title: 'Assignment #2 - Convolutional Neural networks'
 pdf: /static_files/assignments/Proj2.pdf
 attachment: /static_files/assignments/report_template.zip
 hide_from_announcments: True
