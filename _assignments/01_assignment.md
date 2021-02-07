@@ -10,8 +10,6 @@ due_event:
     date: 2019-11-18T23:59:59+3:30
     description: 'Assignment #1 DeadLine'
 ---
-you can download Dataset assignment 2-1 from [Kaggle](https://www.kaggle.com/valentynsichkar/traffic-signs-preprocessed)
+you can download Dataset assignment 1 from [github](https://github.com/alisharifi2000/CS-SBU-ANN-Bsc-3991/blob/main/static_files/assignments/Proj1_Data.csv)
 
-you can download Dataset assignment 2-2 from [Kaggle](https://www.kaggle.com/ted8080/house-prices-and-images-socal/notebooks)
-
-code of TA session for assignment2 [colab](https://colab.research.google.com/drive/1IvSIqQo1EoBYO4LLM0e9u52nRXWuT6Ec?usp=sharing)
+code of TA session for assignment1 [colab](https://colab.research.google.com/drive/1LP52pQ17rX3AALm9ShaapfmNYZ4ULU29?usp=sharing)
