@@ -8,7 +8,5 @@ due_event:
     date: 2020-01-19T23:59:59+3:30
     description: 'Assignment #4 due'
 ---
-links: 
-
-    - url: https://drive.google.com/drive/folders/1WEn2cY9VDfBgFLZgaXqOsvvqX6gY4LMr?usp=sharing
-      name: DataSet Assignment 4-2 
+you can download Dataset assignment 4-1 from [Source](http://www.rapdataset.com/)
+you can download Dataset assignment 4-2 from [googleDrive](https://drive.google.com/drive/folders/1WEn2cY9VDfBgFLZgaXqOsvvqX6gY4LMr?usp=sharing)
