@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2019-12-11T14:00:00+4:30
-title: 'Assignment #3 AutoEncoder'
+title: 'Assignment #3 - AutoEncoder'
 pdf: /static_files/assignments/Proj3.pdf
 hide_from_announcments: True
 due_event: 
