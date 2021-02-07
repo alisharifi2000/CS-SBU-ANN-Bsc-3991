@@ -15,3 +15,7 @@ you can download Dataset assignment 2-1 from [Kaggle](https://www.kaggle.com/val
 you can download Dataset assignment 2-2 from [Kaggle](https://www.kaggle.com/ted8080/house-prices-and-images-socal/notebooks)
 
 code of TA session for assignment2 [colab](https://colab.research.google.com/drive/1IvSIqQo1EoBYO4LLM0e9u52nRXWuT6Ec?usp=sharing)
+
+recorded TA session for assignment2 part 1 [google Drive](https://drive.google.com/file/d/16H9wP-T7cW61EOfK6YdaYhg6-CyBWZO9/view?usp=sharing)
+
+recorded TA session for assignment2 part 2 [google Drive](https://drive.google.com/file/d/1GInn3VA4UhVQL1lk6pEo3-mr0Pliz2KQ/view?usp=sharing)
