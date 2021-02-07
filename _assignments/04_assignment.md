@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2020-01-2T17:00:00+4:30
-title: 'Assignment #4 - Recurrent Neural Networks, Long Short-term Memory, Gated Recurrent Unit'
+title: 'Assignment #4 - Recurrent Neural Networks'
 pdf: /static_files/assignments/Proj4 (3).pdf
 attachment: /static_files/assignments/report_template.zip
 due_event: 
